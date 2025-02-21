@@ -1,0 +1,17 @@
+return
+for
+if
+while
+print
+input
+if
+else
+void
+bool
+char
+string
+int
+float
+list
+true
+false
